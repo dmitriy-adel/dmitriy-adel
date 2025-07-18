@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- gradient line -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-🌈%20gradient%20line-ffffff00?style=for-the-badge" width="100%" height="2">
+</p>
 
-<!--
-**dmitriy-adel/dmitriy-adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- name and brief -->
+<h1 align="center">Hi there! </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>• it is me </em><br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Рабочий опыт -->
+## Work Experience
+
+### Wildberries — Data Scientist (march 2024 — current time)
+  - did something
+
+<!-- other gradient line -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-🌈%20gradient%20line-ffffff00?style=for-the-badge" width="100%" height="2">
+</p>

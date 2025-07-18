@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <em>Dmitriy Golubev</em><br>
+  <em>My name is Dmitriy Golubev. I am a Data Scientist in WB Tech</em><br>
 </p>
 
 
@@ -22,8 +22,8 @@
 - **Data Visualization** | Matplotlib, Seaborn
 
 ### Software Engineering
-- FastAPI, Kafka, Redis
-- Git, Linux, Docker
+- **Backend Development** | FastAPI, Kafka, Redis
+- **DevOps & Tooling** | Git, Linux, Docker, Grafana
 - **Databases** | PostgreSQL, Neo4j, PySpark, ClickHouse, Goose
 
 

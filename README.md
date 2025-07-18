@@ -1,6 +1,6 @@
 <!-- gradient line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kirajoseph/kirajoseph/main/assets/neon-line.gif" width="100%" height="4">
+  <img src="https://i.imgur.com/zdwdenZ.gif" alt="neon line" width="100%" height="4">
 </p>
 
 <!-- name and brief -->
@@ -18,5 +18,5 @@
 
 <!-- other gradient line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kirajoseph/kirajoseph/main/assets/neon-line.gif" width="100%" height="4">
+  <img src="https://i.imgur.com/zdwdenZ.gif" alt="neon line" width="100%" height="4">
 </p>

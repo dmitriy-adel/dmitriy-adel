@@ -1,6 +1,6 @@
 <!-- gradient line -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🌈%20gradient%20line-ffffff00?style=for-the-badge" width="100%" height="2">
+  <img src="https://raw.githubusercontent.com/kirajoseph/kirajoseph/main/assets/neon-line.gif" width="100%" height="4">
 </p>
 
 <!-- name and brief -->
@@ -18,5 +18,5 @@
 
 <!-- other gradient line -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🌈%20gradient%20line-ffffff00?style=for-the-badge" width="100%" height="2">
+  <img src="https://raw.githubusercontent.com/kirajoseph/kirajoseph/main/assets/neon-line.gif" width="100%" height="4">
 </p>

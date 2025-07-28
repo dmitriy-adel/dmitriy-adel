@@ -26,6 +26,9 @@
 - **DevOps & Tooling** | Git, Linux, Docker, Grafana
 - **Databases** | PostgreSQL, Neo4j, PySpark, ClickHouse, Goose
 
+### Programming Languages
+- Python, Go
+
 
 <!-- work experience -->
 ## Work Experience

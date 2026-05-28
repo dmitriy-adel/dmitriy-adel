@@ -11,33 +11,14 @@
   <img src="https://i.imgur.com/K9zXs29.jpeg" alt="neon line" width="100%" height="6">
 </p>
 
-
-<!-- technology stack -->
-## Techology Stack 
-
-### MLE / NLP
-- **Models Training** | Transformers, Scikit-Learn, PyTorch
-- **Data Processing** | Pandas, Numpy
-- **Models Training Automatization** | Airflow, MLflow, A/B
-- **Data Visualization** | Matplotlib, Seaborn
-
-### Software Engineering
-- **Backend Development** | FastAPI, Kafka, Redis
-- **DevOps & Tooling** | Git, Linux, Docker, Grafana
-- **Databases** | PostgreSQL, Neo4j, PySpark, ClickHouse, Goose
-
-### Programming Languages
-- Python, Go
-
-
 <!-- work experience -->
 ## Work Experience
 
-### Wildberries — Middle Data Scientist (march 2024 — current time)
+### Wildberries — Middle Data Scientist (march 2024 — current time. march 2024 - feb 2025 PPVZ dep, marc 2025 - current time CX dep)
   - Обучил, дообучил и вывел в прод множество моделей (классический ML, семейство T5, семейство BERT), лучший результат f1 score ~98% на задаче классификации. Среди обученных моделей числятся модели для корректировки ошибок в тексте, qa модели-экстракторы, обычные и многоклассовые текстовые классификаторы; 
-  - Внедрил систему RAG для промо-сайта компании, что позволило сэкономить более 4 млн руб за последние 6 мес.;
-  - Разработал RAG для создания подсказок операторам поддержки, что позволило снизить время их ответа в несколько раз;
-  - Разработал прототип умной колонки.
+  - Внедрил RAG-систему для промо-сайта компании;
+  - Разработал прототип умной колонки;
+  - Провел несколько результативных исследований по внедернию LLM в процесс разметки записей.
 
 
 <!-- other gradient line -->
